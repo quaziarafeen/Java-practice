@@ -3,6 +3,8 @@ package datareader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ReadFile {
 
@@ -18,17 +20,29 @@ public class ReadFile {
         fileReader=new FileReader(fileName);
         bufferedReader=new BufferedReader(fileReader);
 
-        String data;
+        List <Double> data = new ArrayList<>();
+        String input="";
+
 //      data=bufferedReader.readLine();
 
-        while ( ( data=bufferedReader.readLine()) != null){
-            System.out.println(data);
+        while ( ( input=bufferedReader.readLine()) != null){
+
+            if(Double.parseDouble(input)>0)
+            data.add(Double.parseDouble(input));
+            else
+                input=bufferedReader.readLine();
+                System.out.println(data);
             }
 
+        } catch (NumberFormatException n){
+            //e.printStackTrace();
+            n.printStackTrace();
+            System.out.println("File not Found1");
         } catch (Exception e){
             e.printStackTrace();
-            System.out.println("File not Found");
-        } finally {
+            //n.printStackTrace();
+            System.out.println("File not Found");}
+        finally {
 
             try {
                 fileReader.close();

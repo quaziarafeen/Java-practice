@@ -68,6 +68,8 @@ public class FibonacciSeries {
         return fibonacci; //Fibonacci number
 
     }
+public static void fibonacciSeries(int number){
 
+}
 
 }

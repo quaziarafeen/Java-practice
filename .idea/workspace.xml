@@ -2,125 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="199b6afa-b93c-4570-915e-cf658e112377" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsandsolutions/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsandsolutions/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsandsolutions/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tradukisto_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datareader/CurrencyToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datareader/FileWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mySql/mysql-connector-java-8.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/META-INF/LearnJava_WeekdaysEvening_SeleniumDecember2019.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Burger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/NamingConvention.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/NamingConvention.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/StaticVariableAndMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/StaticVariableAndMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseCasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseConstractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseConstractor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseDataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseDataType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseMainMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseMainMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/basic/UseVariable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/SwitchCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/UseIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/UseIfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/UseIfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/controlflow/UseIfElseIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datareader/ReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datareader/ReadFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/Use3DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/Use3DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseTwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/array/UseTwoDArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/list/UseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/list/UseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/HashMapTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/HashMapTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/UseListHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/UseListHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/UseMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/map/UseMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/queue/UsePriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/queue/UsePriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/queue/UseQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/queue/UseQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/randomnumber/UseRandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/randomnumber/UseRandomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/set/UseSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/set/UseSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/UseSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/UseSwap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/stack/UseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/stack/UseStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/Fruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/Fruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/MobileBrand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/MobileBrand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum$Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum$Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum$Level.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/doenum/UseEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/excelreadandwrite/ReadExcelFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/excelreadandwrite/ReadExcelFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datareader/Sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datareader/Sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/excelreadandwrite/WriteExcelFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/excelreadandwrite/WriteExcelFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/exceptionhandling/UseTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/exceptionhandling/UseTryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/gitTeamWork/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/gitTeamWork/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/gitTeamWork/Kollol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/gitTeamWork/Kollol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/ConnectMySqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/ConnectMySqlDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/MovieDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/MovieDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/jdbc/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/NestedForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/NestedForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseDebugging.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseDebugging.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseDoWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseDoWhileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseForEachLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/loop/UseWhileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/TestComputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/TestComputer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/TestHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/Encapsulation/TestHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/FlyingCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/FlyingCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/NewCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/NewCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/abstraction/Toyota.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Bmw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/FatherTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/FatherTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/FlyingCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/FlyingCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/GrandFather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/GrandFather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/NewCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/NewCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/TestBmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/inheritance/TestBmw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overloading/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/oop/polymorphism/overriding/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/ArithmaticOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/ArithmaticOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/AssignmentOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/AssignmentOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/ConditionalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/ConditionalOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/EqalityAndRelationalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/EqalityAndRelationalOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/UnaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/operator/UnaryOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/DoAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/DoAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/EligibleForVote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/EligibleForVote.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FibonacciSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FindSmallestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FindSmallestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FineEvenOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/FineEvenOddNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/IncreaseDecreaseOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/IncreaseDecreaseOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/MergeTwoArraysAndRemoveDuplicatesProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/MergeTwoArraysAndRemoveDuplicatesProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/secret.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/Mobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/Mobile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/SingletonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/SingletonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/singleton/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/TestCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/problemsandsolutions/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datareader/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datareader/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datareader/Sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/datareader/Sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/excelreadandwrite/WriteExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excelreadandwrite/WriteExcelFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsandsolutions/EligibleForVote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsandsolutions/EligibleForVote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsandsolutions/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsandsolutions/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsandsolutions/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsandsolutions/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsandsolutions/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsandsolutions/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsandsolutions/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsandsolutions/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,17 +52,18 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578860408244" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MidTerm2020/MidTermWeekDaysDecember2019" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tradukisto-1.8.0-sources.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -179,13 +76,26 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsandsolutions.Practice1" />
+  <component name="RunManager" selected="Application.FileWrite">
+    <configuration name="CurrencyToWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datareader.CurrencyToWord" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemsandsolutions.*" />
+          <option name="PATTERN" value="datareader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datareader.FileWrite" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datareader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.randomnumber.UseRandomNumber" />
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datareader.ReadFile" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.randomnumber.*" />
+          <option name="PATTERN" value="datareader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,25 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.set.UseSet" />
+    <configuration name="WriteExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excelreadandwrite.WriteExcelFile" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.stack.UseStack" />
-      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.stack.*" />
+          <option name="PATTERN" value="excelreadandwrite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileWrite" />
+        <item itemvalue="Application.WriteExcelFile" />
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.CurrencyToWord" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.UseStack" />
-        <item itemvalue="Application.UseSet" />
-        <item itemvalue="Application.UseRandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +165,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Quazi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -295,34 +192,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583440831947" />
-    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579048666771">
+    <state x="648" y="194" key="#Servers" timestamp="1585445705441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579048666771" />
+    <state x="648" y="194" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1585445705441" />
     <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583016576399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583016576399" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1583765122133">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1590639175656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583765122133" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584078963801">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590639175656" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590643535820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584078963801" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584078963801">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590643535820" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590643535820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584078963801" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584078963801">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590643535820" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590643535820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584078963801" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584078963801">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590643535820" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590643535820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584078963801" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590643535820" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583192777644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -339,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583192777643" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584072758387">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1590639182525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584072758387" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590639182525" />
     <state width="523" height="446" key="SwitcherDM" timestamp="1583446415122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -351,10 +248,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1583018959848" />
-    <state x="690" y="276" key="extract.method.dialog" timestamp="1579480435482">
+    <state x="439" y="231" key="new project wizard" timestamp="1585614383265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="276" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579480435482" />
+    <state x="439" y="231" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585614383265" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1583445520634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
